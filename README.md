@@ -1,2 +1,2 @@
 # extraspicey
-Helper functions for SPICE in Python
+Helper functions for SPICE in Python (extending on `spiceypy`)
